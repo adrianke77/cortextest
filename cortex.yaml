@@ -1,0 +1,16 @@
+openapi: 3.0.0
+info:
+  title: Cortex-Grab Test Service
+  description: Test service
+  x-cortex-tag: cortex-grab-test
+  x-cortex-link:
+    - name: Grab Transport (typed as Documentation)
+      type: DOCUMENTATION
+      url: http://https://www.grab.com/sg/transport/
+      description: Design doc presented to architecture committee
+    - name: Grab Business (typed as Runbook)
+      type: RUNBOOK
+      url: https://www.grab.com/sg/business/
+    - name: Swagger Spec Sample
+      type: OPENAPI
+      url: specs/specsample.yaml
