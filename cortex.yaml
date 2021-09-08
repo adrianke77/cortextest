@@ -6,7 +6,7 @@ info:
   x-cortex-link:
     - name: Grab Transport (typed as Documentation)
       type: DOCUMENTATION
-      url: http://https://www.grab.com/sg/transport/
+      url: https://www.grab.com/sg/transport/
       description: Design doc presented to architecture committee
     - name: Grab Business (typed as Runbook)
       type: RUNBOOK
